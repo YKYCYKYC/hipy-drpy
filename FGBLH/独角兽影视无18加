@@ -600,6 +600,12 @@
             "url": "http://tv.anbox.ip-ddns.com/live"
         },
         {
+            "name": "🦄台湾频道(梯子台湾节点)",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+        {
             "name": "🦄4gTV(梯子台湾节点)",
             "type": 0,
             "ua": "okhttp",
@@ -611,18 +617,6 @@
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
-        {
-            "name": "🦄litv直播(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "http://ezc.xtvantsc.xyz/litv.php"
-        },
-        {
-            "name": "🦄台湾TV(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
-        }, 
         {
             "name": "🦄港台大陆频道无18",
             "type": 0,
